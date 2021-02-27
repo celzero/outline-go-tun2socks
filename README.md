@@ -1,3 +1,7 @@
+We've hard-forked [`Jigsaw-Code/outline-go-tun2socks`](https://github.com/Jigsaw-Code/outline-go-tun2socks) to [`celzero/firestack`](https://github.com/celzero/firestack). All new commits land there.
+
+----
+
 # outline-go-tun2socks
 
 Go package for building [go-tun2socks](https://github.com/eycorsican/go-tun2socks)-based clients for [Outline](https://getoutline.org) and [Intra](https://getintra.org) (now with support for [Choir](https://github.com/Jigsaw-Code/choir) metrics).  For macOS, iOS, and Android, the output is a library; for Linux and Windows it is a command-line executable.
